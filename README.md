@@ -1,5 +1,6 @@
 # PXE_sur_PI
-Ce projet configure un Raspberry Pi 3 B+ (32 bits) comme serveur PXE complet, permettant le démarrage réseau (PXE boot) de machines BIOS et UEFI pour installer Ubuntu ou charger un système Yocto via NFS.
+*Ce projet configure un Raspberry Pi 3 B+ (32 bits) comme serveur PXE complet, permettant le démarrage réseau (PXE boot) de machines BIOS et UEFI pour installer Ubuntu ou charger un système Yocto via NFS.*
+
 🎯 Objectifs
 
     Automatiser le déploiement de systèmes d'exploitation.
